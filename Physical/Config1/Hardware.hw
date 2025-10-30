@@ -9,6 +9,7 @@
       <Parameter ID="SubnetMask" Value="255.255.255.0" />
     </Connector>
     <Parameter ID="ConfigurationID" Value="labBR" />
+    <Parameter ID="Simulation" Value="1" />
     <Parameter ID="KeyMappingFile" Value="VC\4PP065_0351_P74.dis" />
   </Module>
 </Hardware>
